@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "eluceo/ical": "^0.16.0",
+        "johngrogg/ics-parser": "^2.1",
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}

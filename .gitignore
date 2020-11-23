@@ -1,0 +1,6 @@
+default/
+phpmyadmin/
+vendor/
+logs/
+config.php
+php_errorlog

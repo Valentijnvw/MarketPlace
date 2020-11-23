@@ -1,0 +1,17 @@
+{
+  "name": "MarketPlace",
+  "description": "Marktplaats maar dan door ons gemaakt",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "The Boys",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Valentijnvw/MarketPlace.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
